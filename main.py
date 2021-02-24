@@ -1,6 +1,9 @@
 def main():
     print("Hello")
 
+def odejmij(a,b):
+    return b-a
+
 
 def dodaj(a, b):
     return a + b
